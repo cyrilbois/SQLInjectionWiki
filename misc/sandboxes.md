@@ -13,6 +13,8 @@
 
 [https://www.jdoodle.com/online-mysql-terminal](https://www.jdoodle.com/online-mysql-terminal)
 
+[https://extendsclass.com/mysql-online.html](https://extendsclass.com/mysql-online.html)
+
 
 
 #### Oracle
